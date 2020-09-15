@@ -113,12 +113,11 @@ a {
 .icone {
     width: 100px;
     border-radius: 50px;
-    border: 0.5px solid white;
+    
 }
 
 .coluna:hover>.icone {
     background: rgb(248, 183, 3);
-    border-radius: 50px;
 }
 
 section {
@@ -175,7 +174,7 @@ section {
 footer {
     background-color: black;
     width: 100%;
-    padding: 10px 0 10px 0;
+    padding: 5px 0 5px 0;
     color: white;
     overflow: hidden;
 }
